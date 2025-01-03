@@ -1,12 +1,5 @@
 # Create an Alert System using Spring Boot
 ## OC - project 5
-<style>
-    summary {
-        color: dimgrey;
-        font-weight: bold;
-        font-size: 18px;
-    }
-</style>
 
 <details>
     <summary>
